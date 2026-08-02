@@ -61,7 +61,6 @@ Edge consistency across frames
 Histogram variation over time
 Spatial motion coherence — whether motion is localized (real) or uniform across the frame (AI)
 
-⚠️ Disclaimer: These are heuristic approximations, not verified forensic tools. Results should be treated as indicative, not definitive proof of AI generation.
 
 🗂 Project Structure
 ai-detector new/
@@ -70,6 +69,8 @@ ai-detector new/
 ├── image_detector.py     # Image authenticity analysis
 ├── video_detector.py     # Video authenticity analysis
 └── space.jpg             # Background image used by the UI
+
+
 ⚙️ Requirements
 Python 3.11+
 Streamlit
@@ -90,6 +91,8 @@ bash
 streamlit run app.py
 Open the local URL Streamlit prints (usually http://localhost:8501) in your browser.
 Choose a tab — Text, Image, or Video — upload/paste your content, and click Analyze.
+
+
 🛠 Tech Stack
 Layer	Technology
 UI/Frontend	Streamlit + custom CSS
