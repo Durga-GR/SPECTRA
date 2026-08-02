@@ -20,17 +20,17 @@ Spectra is a Streamlit web app that analyzes **text**, **images**, and **video**
 
 ### 🏠 Dashboard
 
-![Dashboard Screenshot](screenshots/Dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
-![Dashboard Screenshot 2](screenshots/dashboard1.png)
+![Dashboard Screenshot 2](dashboard1.png)
 
 ### 📝 Text Detection
 
-![Text Detection Screenshot](screenshots/text.png)
+![Text Detection Screenshot](text.png)
 
 ### 🎥 Video Detection
 
-![Video Detection Screenshot](screenshots/video.png)
+![Video Detection Screenshot](video.png)
 
 ---
 
