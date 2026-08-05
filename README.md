@@ -122,6 +122,3 @@ streamlit run app.py
 
 ---
 
-## 📄 License
-
-Add your license of choice here (e.g. MIT).
