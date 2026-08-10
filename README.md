@@ -121,4 +121,3 @@ streamlit run app.py
 | Video Analysis | OpenCV + NumPy |
 
 ---
-
